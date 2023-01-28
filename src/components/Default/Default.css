@@ -1,0 +1,9 @@
+.page-not-found {
+    font-size: 50px;
+    font-weight: lighter;
+
+}
+
+.page-not-found p {
+    margin: 200px auto;
+}
